@@ -13,8 +13,7 @@ I'm beginner frontend developer.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=for-the-badge&logo=javaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-003140?style=for-the-badge&logo=React&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/-Redux-003140?style=for-the-badge&logo=Redux&logoColor=764bbc)  
-
+![Redux](https://img.shields.io/badge/-Redux-003140?style=for-the-badge&logo=Redux&logoColor=764bbc)
 ![Webpack](https://img.shields.io/badge/-WebPack-003140?style=for-the-badge&logo=WebPack&logoColor=114873)
 ![Babel](https://img.shields.io/badge/-Babel-003140?style=for-the-badge&logo=Babel&logoColor=F9DC3E)
 ![Git](https://img.shields.io/badge/-Git-003140?style=for-the-badge&logo=Git&logoColor=#F04F33)
