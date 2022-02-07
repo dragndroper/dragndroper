@@ -1,6 +1,6 @@
 Header
 
-[![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/header.gif)]
+[![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/header.gif)](#)
 
 About me
 
