@@ -1,21 +1,4 @@
-Header
-
-[![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/fast.gif)](#)
-
-[![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/slow.gif)](#)
-
-About me
-
-Latest news
-
-Languages and Tools
-
-Follow me
-
-
-
-
-### Hi there 👋
+[![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/computer.gif)](#)
 
 
 
@@ -23,22 +6,3 @@ Follow me
 
 
 
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->11
