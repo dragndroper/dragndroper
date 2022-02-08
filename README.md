@@ -1,11 +1,13 @@
 ### `Hey there,`
 
-I'm beginner frontend developer. I have an active LinkedIn profile where I share information about myself and my work experience. If you are interested, I will be glad to see you.
+I'm beginner frontend developer. I have an active LinkedIn profile  
+where I share information about myself and my work experience.  
+If you are interested, I will be glad to see you. [My LinkedIn.](https://www.linkedin.com/in/dragndroper/)
 
-:pushpin: I work with React and I like it.  
-:pushpin: I am currently creating projects for my portfolio.  
+:pencil2: I work with React and I like it.  
+:pencil2: I am currently creating projects for my portfolio.  
 
-:point_down: My projects are below this block in the repositories.
+:pushpin: My projects are below this block in the repositories.
 
 
 [![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/computer.gif)](#)
