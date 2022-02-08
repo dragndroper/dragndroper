@@ -1,18 +1,12 @@
-### `Hey there,`
+###  `Hey there,` 
 
-I'm beginner frontend developer. I have an active LinkedIn profile  
-where I share information about myself and my work experience.  
-If you are interested, I will be glad to see you. [My LinkedIn.](https://www.linkedin.com/in/dragndroper/)
-
-:pencil2: I work with React and I like it.  
-:pencil2: I am currently creating projects for my portfolio.  
-
-:pushpin: My projects are below this block in the repositories.
+I'm beginner frontend developer. I like to explore new technologies and develop software solutions.  
+I'm on track for learning more about my job. If you're interested, you can find out more about me on [LinkedIn](https://www.linkedin.com/in/dragndroper/).
 
 
 [![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/computer.gif)](#)
 
-### `Core Skills`  
+### `🛠 Core Skills`  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=for-the-badge&logo=javaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-003140?style=for-the-badge&logo=React&logoColor=61dafb)
@@ -21,7 +15,11 @@ If you are interested, I will be glad to see you. [My LinkedIn.](https://www.lin
 ![Babel](https://img.shields.io/badge/-Babel-003140?style=for-the-badge&logo=Babel&logoColor=F9DC3E)
 ![Git](https://img.shields.io/badge/-Git-003140?style=for-the-badge&logo=Git&logoColor=#F04F33)
 
-### `Stats`  
+### `⚡ Stats`  
 
 [![wakatime](https://wakatime.com/badge/user/a3544e78-28d0-4553-bc2e-6cf758747cb3.svg?style=flat-square)](https://wakatime.com/@a3544e78-28d0-4553-bc2e-6cf758747cb3)
+
+
+
+
 
