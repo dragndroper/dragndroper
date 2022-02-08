@@ -1,10 +1,11 @@
 ### `Hey there,`
 
-I'm beginner frontend developer. 
+I'm beginner frontend developer. I have an active LinkedIn profile where I share information about myself and my work experience. If you are interested, I will be glad to see you.
 
-:pushpin: I am currently working on React / Redux and I like it.
+:pushpin: I work with React and I like it.  
+:pushpin: I am currently creating projects for my portfolio.  
 
-:pushpin: I am currently creating projects for my portfolio.
+:point_down: My projects are below this block in the repositories.
 
 
 [![Header](https://github.com/dragndroper/dragndroper/blob/main/assets/computer.gif)](#)
