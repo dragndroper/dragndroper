@@ -1,3 +1,12 @@
+
+
+<details>
+<summary>Резюме и портфолио <img src="https://github.com/dragndroper/dragndroper/blob/main/assets/hand.gif" width="30"></a></summary>
+  
+
+[Смотреть актуальное резюме](https://drive.google.com/file/d/12A9jA92DuILH7Iy6MmQaunUE64jA7v2-/view?usp=sharing)
+</details>
+
 ###  `Hey there,` 
 
 I'm beginner frontend developer. I like to explore new technologies and develop software solutions.  
