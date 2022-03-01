@@ -1,13 +1,13 @@
 
 
-<details>
-<!-- <summary>Резюме и портфолио <img src="https://github.com/dragndroper/dragndroper/blob/main/assets/hand.gif" width="30"></a></summary> -->
+<!-- <details>
+<summary>Резюме и портфолио <img src="https://github.com/dragndroper/dragndroper/blob/main/assets/hand.gif" width="30"></a></summary>
   
 
 [Russian](https://drive.google.com/file/d/1awZUpNWjUZttDM3QbYwWb3CT2sZAPqli/view?usp=sharing)  
 [English](https://drive.google.com/file/d/1qD5ovceTERrKggfGhqJXABTomcZLtUTA/view?usp=sharing)
 </details>
-
+ -->
 ###  `Hey there,` 
 
 I'm beginner frontend developer. I like to explore new technologies and develop software solutions.  
