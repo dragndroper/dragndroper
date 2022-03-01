@@ -1,7 +1,7 @@
 
 
 <details>
-<summary>Резюме и портфолио <img src="https://github.com/dragndroper/dragndroper/blob/main/assets/hand.gif" width="30"></a></summary>
+<!-- <summary>Резюме и портфолио <img src="https://github.com/dragndroper/dragndroper/blob/main/assets/hand.gif" width="30"></a></summary> -->
   
 
 [Russian](https://drive.google.com/file/d/1awZUpNWjUZttDM3QbYwWb3CT2sZAPqli/view?usp=sharing)  
